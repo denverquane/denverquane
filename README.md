@@ -4,7 +4,3 @@
 - 🌱 I’m currently learning Kubernetes, Redis, and general DevOps
 - ⚡ I'm always excited to talk about -and work on- Go projects
 - 📫 I can be reached via dquane@protonmail.com
-
-[![denverquane's github stats](https://github-readme-stats.vercel.app/api?username=denverquane&show_icons=true&theme=tokyonight)](https://github.com/denverquane)
-
-![Profile views](https://gpvc.arturio.dev/denverquane) 
